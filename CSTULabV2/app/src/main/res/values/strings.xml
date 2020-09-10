@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">CSTU(LabV2)</string>
+    <string name="hello_world_hackerman">Hello World, Hackerman!</string>
+
+    <string name="welcome_to_the_subway" tools:ignore="DuplicateDefinition" />
+    <string name="Welcome">Welcome to the Subway!</string>
+    <string name="enter_your_name_please">Enter your name please</string>
+    <string name="Enter">Введіть ім\'я</string>
+    <string name="input_your_text">Input your text</string>
+    <string name="todo">TODO</string>
+</resources>
