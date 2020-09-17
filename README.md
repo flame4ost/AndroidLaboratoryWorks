@@ -2,7 +2,7 @@
 
 Cherkasy State Technological University
 
-Student 2nd year
+Student 3d year
 
 GROUP PZS-1944
 
