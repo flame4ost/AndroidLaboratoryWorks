@@ -23,9 +23,9 @@ public class MainActivity extends AppCompatActivity  {
     public void OnClick(View view) {
         mHelloTextView.setText("I DID IT !!!");
         if (mNameEditText.getText().length() == 0) {
-            mHelloTextView.setText("Your nothing input in field =(!");
+            mHelloTextView.setText("Ви нічого не ввели в цьому полі =(!");
         } else {
-            mHelloTextView.setText("Your input this: , " + mNameEditText.getText());
+            mHelloTextView.setText("Ось ваший текст: " + mNameEditText.getText());
         }
     }
 }
